@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1622236383
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8daf4d1161fae77ebdea08a41bdc8bb0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Window_ex/Frame.mat
+- Assets/Materials/WoodenFloor2.mat
+- Assets/Wooden Furniture Pack/Materials/carpet.mat
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01.mat
+- Assets/Materials/test.mat
+- Assets/Window_ex/Window.mat
+- Assets/Oculus/VoiceMod/Scenes/Materials/Color.mat
+Dependencies:
+- /Users/jws/Desktop/Edum_jws/OVRAssetBundles/OVRMasterBundle/asset_png0
+- /Users/jws/Desktop/Edum_jws/OVRAssetBundles/OVRMasterBundle/asset_tga0

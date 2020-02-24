@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 597057729
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb59405576a9e1a0f10671c4dc217ef6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Back-Z.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Left+X.png
+- Assets/Wooden Furniture Pack/Textures/maps_carpet/carpet_SpecularSmoothness.png
+- Assets/Wooden Furniture Pack/Textures/maps_carpet/carpet_AlbedoTransparency.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Up+Y.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Right-X.png
+- Assets/image/headphone.png
+- Assets/image/Story_bar.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Front+Z.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Down-Y.png
+- Assets/Wooden Furniture Pack/Textures/maps_carpet/carpet_Normal.png
+Dependencies: []
