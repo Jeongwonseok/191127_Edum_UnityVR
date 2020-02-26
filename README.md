@@ -143,8 +143,8 @@ Unity 엔진을 이용해서 1인칭 시점의 나라별 음악 교육 교구 �
 # 3. 주요 구현부
 ## 3.1. Audio
 <p align="center">
-<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/audio1.png" width="300" height="300">
-<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/audio2.png" width="300" height="600"><br>
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/audio1.png" width="300" height="200">
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/audio2.png" width="300" height="500"><br>
 </p>
 
 ```
