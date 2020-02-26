@@ -143,7 +143,7 @@ Unity 엔진을 이용해서 1인칭 시점의 나라별 음악 교육 교구 �
 # 3. 주요 구현부
 ## 3.1. Audio
 <p align="center">
-<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/audio1.png" width="300" height="300"><br>
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/audio1.png" width="500" height="500"><br>
 </p>
 
 ```
@@ -154,7 +154,7 @@ Unity 엔진을 이용해서 1인칭 시점의 나라별 음악 교육 교구 �
 ```
 
 <p align="center">
-<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/audio2.png" width="350" height="300"><br>
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/audio2.png" width="500" height="500"><br>
 </p>
 
 ```
@@ -194,21 +194,21 @@ Unity 엔진을 이용해서 1인칭 시점의 나라별 음악 교육 교구 �
 ## 4.2. 스크린 샷
 * **Intro**
 <p align="center">
-<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/스크린1.png" width="800" height="300"><br>
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/스크린1.png" width="700" height="250"><br>
 </p>
 
 * **USA**
 <p align="center">
-<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/스크린2.png" width="700" height="400"><br>
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/스크린2.png" width="600" height="300"><br>
 </p>
 
 * **Korea**
 <p align="center">
-<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/스크린3.png" width="700" height="400"><br>
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/스크린3.png" width="700" height="250"><br>
 </p>
 
 <p align="center">
-<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/스크린4.png" width="700" height="400"><br>
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/스크린4.png" width="700" height="150"><br>
 </p>
 
 ## 4.3. 참고 url
