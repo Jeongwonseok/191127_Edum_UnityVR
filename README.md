@@ -143,8 +143,7 @@ Unity 엔진을 이용해서 1인칭 시점의 나라별 음악 교육 교구 �
 # 3. 주요 구현부
 ## 3.1. Audio
 <p align="center">
-<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/audio1.png" width="300" height="200">
-<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/audio2.png" width="300" height="500"><br>
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/audio1.png" width="300" height="300"><br>
 </p>
 
 ```
@@ -155,57 +154,19 @@ Unity 엔진을 이용해서 1인칭 시점의 나라별 음악 교육 교구 �
 ```
 
 <p align="center">
-<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/audio3.png" width="406" height="684">
-<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/audio4.png" width="450" height="546"><br>
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/audio2.png" width="350" height="300"><br>
 </p>
 
 ```
 * 설명
 - 연주하기 기능 정의를 위해 Audio Source에 각 악기의 연주 사운드를 추가한다. 
-- 악기마다 Collider를 각기 다르게 추가하고, Collider Script를 컴포넌트로 추가한다. 
+- 악기마다 Collider를 각기 다르게 추가하고, Collider Script를 컴포넌트로 추가한다.
+- OnTriggerEnter 메서드를 오버라이딩하여, 충돌 시 연주 사운드 플레이를 정의한다.
 ```
 
+## 3.2. CloseObject
 <p align="center">
-<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/ABHD/coro2.png" width="500" height="500"><br>
-</p>
-
-```
-* 설명
-- 마지막 배열 인덱스가 아니라면, Next 버튼을 활성화한다. 
-- contextCount 변수를 이용해 대화의 순서를 읽고, 각 순서에 출력할 Animation을 실행한다.
-- 텍스트를 한 글자씩 딜레이를 주면서 출력하기 위해 Coroutine을 사용한다.
-```
-
-<p align="center">
-<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/ABHD/coro3.png" width="500" height="400"><br>
-</p>
-
-```
-* 설명
-- Next 버튼 클릭 시, 이전의 Sound를 중지하고, 모든 Bool 값을 false로 바꿔준다.
-- Next 버튼 클릭 시, Text 내용을 잠시 없애준다.
-- Next 버튼 클릭 시, 모든 UI 및 버튼을 잠시 비활성화한다.
-- if 문을 통해 contextCount 변수를 업데이트 하고, 대사에 맞는 사운드를 재생한다.
-- 이어서, Coroutine을 실행한다.
-```
-
-* **CountDownTimer()**<br>
-<p align="center">
-<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/ABHD/coro4.png" width="600" height="500"><br>
-</p>
-
-```
-* 설명
-- 초 저장 변수를 선언하고, 초기화한다.
-- TimeSpan 구조체를 이용해 분, 초 간격으로 나누고, 이를 Timer UI에 해당 텍스트를 저장한다.
-- 초 저장 변수가 0이 되면, Game Over로 간주하고, GameOver() Coroutine을 실행한다.
-- 5초의 여유시간을 주고, Intro 씬으로 전환한다.
-```
-
-## 3.2. ClosePos
-* **ClosePhone()**
-<p align="center">
-<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/ABHD/close.png" width="500" height="400"><br>
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/close.png" width="500" height="400"><br>
 </p>
 
 ```
@@ -218,21 +179,36 @@ Unity 엔진을 이용해서 1인칭 시점의 나라별 음악 교육 교구 �
 ****
 # 4. 참고
 ## 4.1. 참여 목록
+* **2020 HCI KOREA – 포스터 발표**<br>
+    -가상 현실 음악 교육 모델 제작 연구<br>
+    [한국 HCI 학회]<br>
+
 * **2019 콘텐츠원캠퍼스 구축운영 및 VR 콘텐츠 개발 사업**<br>
-    -입체 및 공간 음향을 활용한 방 탈출 게임(VR) 개발<br>
+    -가상 현실(VR) 음악 교육 도구 제작<br>
     [문화체육관광부, KOCCA(한국콘텐츠진흥원), 성결대학교 산학협력단, XRCENTER, 안양창조산업진흥원]<br>
     
 * **학생주도 연구 프로그램 지원 사업**<br>
-    -노력 정당화 이론 기반의 가상현실 콘텐츠 개발<br>
+    -가상 현실(VR) 음악 교육 도구 제작<br>
     [성결대학교 미래발전연구원]
 
 ## 4.2. 스크린 샷
+* **Intro**
 <p align="center">
-<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/ABHD/스크린1.png" width="800" height="300"><br>
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/스크린1.png" width="800" height="300"><br>
+</p>
+
+* **USA**
+<p align="center">
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/스크린2.png" width="700" height="400"><br>
+</p>
+
+* **Korea**
+<p align="center">
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/스크린3.png" width="700" height="400"><br>
 </p>
 
 <p align="center">
-<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/ABHD/스크린2.png" width="700" height="400"><br>
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/스크린4.png" width="700" height="400"><br>
 </p>
 
 ## 4.3. 참고 url
