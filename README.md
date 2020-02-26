@@ -181,15 +181,15 @@ Unity 엔진을 이용해서 1인칭 시점의 나라별 음악 교육 교구 �
 ## 4.1. 참여 목록
 * **2020 HCI KOREA – 포스터 발표**<br>
     -가상 현실 음악 교육 모델 제작 연구<br>
-    [한국 HCI 학회]<br>
+     [한국 HCI 학회]<br>
 
 * **2019 콘텐츠원캠퍼스 구축운영 및 VR 콘텐츠 개발 사업**<br>
     -가상 현실(VR) 음악 교육 도구 제작<br>
-    [문화체육관광부, KOCCA(한국콘텐츠진흥원), 성결대학교 산학협력단, XRCENTER, 안양창조산업진흥원]<br>
+     [문화체육관광부, KOCCA(한국콘텐츠진흥원), 성결대학교 산학협력단, XRCENTER, 안양창조산업진흥원]<br>
     
 * **학생주도 연구 프로그램 지원 사업**<br>
     -가상 현실(VR) 음악 교육 도구 제작<br>
-    [성결대학교 미래발전연구원]
+     [성결대학교 미래발전연구원]
 
 ## 4.2. 스크린 샷
 * **Intro**
@@ -197,10 +197,12 @@ Unity 엔진을 이용해서 1인칭 시점의 나라별 음악 교육 교구 �
 <img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/스크린1.png" width="700" height="250"><br>
 </p>
 
+
 * **USA**
 <p align="center">
 <img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/스크린2.png" width="600" height="300"><br>
 </p>
+
 
 * **Korea**
 <p align="center">
@@ -210,6 +212,3 @@ Unity 엔진을 이용해서 1인칭 시점의 나라별 음악 교육 교구 �
 <p align="center">
 <img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/스크린4.png" width="700" height="150"><br>
 </p>
-
-## 4.3. 참고 url
-* 게임 플레이 영상 : <https://youtu.be/BGeL1tWlY9w/>
