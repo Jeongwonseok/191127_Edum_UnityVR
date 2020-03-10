@@ -212,3 +212,6 @@ Unity 엔진을 이용해서 1인칭 시점의 나라별 음악 교육 교구 �
 <p align="center">
 <img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/EDUM/스크린4.png" width="700" height="150"><br>
 </p>
+
+## 4.3. 참고 url
+* 게임 플레이 영상 : https://www.youtube.com/watch?v=2lKeRE8MJkU
